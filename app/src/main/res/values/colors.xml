@@ -1,0 +1,15 @@
+<resources>
+    <color name="primary">#C7543F</color>
+    <color name="primary_soft">#FFE1D8</color>
+    <color name="app_background">#FFF8F3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_soft">#FFF0EA</color>
+    <color name="text_primary">#2B2523</color>
+    <color name="text_secondary">#705F58</color>
+    <color name="text_disabled">#A69A95</color>
+    <color name="border">#E7D8D1</color>
+    <color name="success">#2F8F65</color>
+    <color name="warning">#C77719</color>
+    <color name="error">#B9383D</color>
+    <color name="on_primary">#FFFFFF</color>
+</resources>

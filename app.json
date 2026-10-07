@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "작은 한 걸음",
+    "slug": "dog-todo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "scheme": "dogtodo",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.dogtodo"
+    },
+    "android": {
+      "package": "com.example.dogtodo",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8F3"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
